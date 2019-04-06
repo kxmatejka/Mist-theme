@@ -2179,7 +2179,7 @@ can I make just the innermost one do things, so it's not huge?*/
 }
 
 .ws-switcher-active-up {
-    height: 100px;
+    height: 0px;
     border: 0px;
     background: rgba(255,255,255,0.1);
     background-image: url("assets/ws-switch-arrow-up.svg");
@@ -2187,7 +2187,7 @@ can I make just the innermost one do things, so it's not huge?*/
 }
 
 .ws-switcher-active-down {
-    height: 100px;
+    height: 0px;
     border: 0px;
     background: rgba(255,255,255,0.1);
     background-image: url("assets/ws-switch-arrow-down.svg");
