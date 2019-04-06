@@ -568,8 +568,8 @@ StEntry {
 
 /* Panel */
 
-#panel { /*looks best with no background*/
-    background-color: transparent;
+#panel {
+    background-color: black;
     font-weight: bold;
     height: 1.86em;
 }
